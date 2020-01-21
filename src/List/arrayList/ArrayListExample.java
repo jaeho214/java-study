@@ -1,6 +1,6 @@
-import List.ArrayList;
+package List.arrayList;
 
-public class Main {
+public class ArrayListExample {
     public static void main(String[] args) {
         ArrayList list = new ArrayList();
 
