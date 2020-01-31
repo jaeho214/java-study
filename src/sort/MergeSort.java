@@ -1,9 +1,9 @@
 package sort;
 /*
  * 재귀함수 호출을 통해서 더이상 쪼갤 수 없을 때까지 쪼개고 병합을 하는 과정에서 정렬을 하는 방법
- * Worst : O(nlogn)
- * Best  : O(nlogn)
- * Avg   : O(nlogn)
+ * Worst : O(n log n)
+ * Best  : O(n log n)
+ * Avg   : O(n log n)
  */
 public class MergeSort {
     private static int[] sorted; // 임시 배열 필요
