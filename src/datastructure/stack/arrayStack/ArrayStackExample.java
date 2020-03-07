@@ -1,4 +1,4 @@
-package stack.arrayStack;
+package datastructure.stack.arrayStack;
 
 public class ArrayStackExample {
     public static void main(String[] args) {

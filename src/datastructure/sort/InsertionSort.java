@@ -1,4 +1,4 @@
-package sort;
+package datastructure.sort;
 /*
  * 임의로 하나의 Key 를 정해놓고 Key 보다 큰 값들을 뒤로 밀고 key 보다 작은 값 바로 뒤에 key 를 삽입하는 방법을 반복하며 정렬하는 방법
  * Worst : O(n^2)

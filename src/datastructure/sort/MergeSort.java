@@ -1,4 +1,4 @@
-package sort;
+package datastructure.sort;
 /*
  * 재귀함수 호출을 통해서 더이상 쪼갤 수 없을 때까지 쪼개고 병합을 하는 과정에서 정렬을 하는 방법
  * Worst : O(n log n)

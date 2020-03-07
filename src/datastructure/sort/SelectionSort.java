@@ -1,4 +1,4 @@
-package sort;
+package datastructure.sort;
 
 /*
  * 정렬하고자 하는 배열의 최소값을 찾아 swap 하는 방식을 반복하여 정렬하는 방법

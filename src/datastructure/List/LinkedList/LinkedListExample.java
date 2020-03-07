@@ -1,4 +1,4 @@
-package List.LinkedList;
+package datastructure.List.LinkedList;
 
 public class LinkedListExample {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package stack.listStack;
+package datastructure.stack.listStack;
 
-import stack.Stack;
+import datastructure.stack.Stack;
 
 public class ListStack implements Stack {
     private ListStackNode top;

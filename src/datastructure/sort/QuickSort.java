@@ -1,4 +1,4 @@
-package sort;
+package datastructure.sort;
 /*
  * 리스트 가운데에서 pivot을 선정하고 pivot의 왼쪽에선 pivot보다 큰 값을 찾고 오른쪽에선 pivot보다 작은 값을 찾는다.
  * 둘다 찾으면 그 둘을 swap하고 찾는 두 인덱스가 엇갈리게 되면 즉 left > right 가 되면 정렬을 탐색을 끝낸 후 다시 pivot을 정하여 이 작업을 반복하여 정렬하는 방법

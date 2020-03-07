@@ -1,7 +1,6 @@
-package stack.arrayStack;
+package datastructure.stack.arrayStack;
 
-import jdk.nashorn.internal.runtime.logging.Logger;
-import stack.Stack;
+import datastructure.stack.Stack;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;

@@ -1,4 +1,4 @@
-package stack.listStack;
+package datastructure.stack.listStack;
 
 public class ListStackExample {
     public static void main(String[] args) {

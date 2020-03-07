@@ -1,4 +1,4 @@
-package List.arrayList;
+package datastructure.List.arrayList;
 
 public class ArrayListExample {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package sort;
+package datastructure.sort;
 /*
  * 현재 값과 바로 다음 값을 비교하면서 정렬하는 방법
  * Worst : O(n^2)
